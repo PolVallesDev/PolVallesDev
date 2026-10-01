@@ -1,56 +1,81 @@
-# 👋 Hola, sóc Pol Vallés Esteban
+# 👋 Hola, sóc en Pol Vallés Esteban
 
-Sóc estudiant de **Sistemes Microinformàtics i Xarxes (SMX2)** i m’apassiona el món de la tecnologia, l'administració de sistemes i les solucions digitals automatitzades. Aquest és el meu espai professional a GitHub on comparteixo els meus projectes i aprenentatges.
+Desenvolupador de Software i Tècnic de Sistemes enfocat al desenvolupament d'aplicacions multiplataforma, entorns web moderns i automatització de processos amb Intel·ligència Artificial.
 
 ---
 
 ## 📌 Sobre mi
-- 🎓 **Formació:** Estudiant de 1r DAM (CFGS) a l'Escola Pia Mataró.
-- 🧑‍💻 **Experiència:** Pràctiques del sector realitzades a **ETL Ilia**.
-- 📲 **Especialització personal:** Apassionat de les automatitzacions, integració de serveis i solucions amb Intel·ligència Artificial.
-- 🔧 **Objectiu:** Resoldre problemes tècnics d'infraestructura, assegurar entorns de xarxa i optimitzar processos operatius.
+
+- 🎓 **Formació actual:** Estudiant de 1r de **Desenvolupament d'Aplicacions Multiplataforma (CFGS DAM)** a l'Escola Pia Mataró.
+- 📜 **Background tècnic:** Graduat en **Sistemes Microinformàtics i Xarxes (CFGM SMX)** amb experiència pràctica a **ETL Ilia**.
+- ⚙️ **Enfocament:** Desenvolupament d'aplicacions escalables, integració de serveis al núvol, pipelines d'automatització i interfícies interactives.
+- 📍 **Ubicació:** Mataró, Catalunya.
 
 ---
 
-## 🛠️ Tecnologies i Competències
-### 🖥️ Administració i Xarxes
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=microsoft&logoColor=white) ![Networks](https://img.shields.io/badge/Xarxes_i_Seguretat-🔒-blue?style=flat-square) ![DNS/DHCP](https://img.shields.io/badge/Serveis-DNS_|_DHCP_|_FTP-orange?style=flat-square)
+## 🛠️ Stack Tecnològic i Eines
 
-### ⚙️ Automatització i Gestió
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Kanban](https://img.shields.io/badge/Metodologies-Agile_/_Kanban-success?style=flat-square) ![AI](https://img.shields.io/badge/IA-Eines_Integrades-purple?style=flat-square)
+### 💻 Desenvolupament & Frontend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎯 Programació i Desenvolupament 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Roblox](https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white)	![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 🔌 Backend, Serveis & Automatització
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-
---- 
-
-## 📂 Projectes Destacats (SMX2)
-
-A continuació es detallen els repositoris principals que han format part del desplegament de la meva infraestructura de final de grau:
-
-* **[EverPia - Projecte 2](https://github.com/PolVallesSMX2/Projecte2)** ➔ Consultoria IT inicial, elecció de hosting i anàlisi de requeriments del client.
-* **[EverPia 2 - Projecte 3](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2)** ➔ Resolució de problemes crítics d'infraestructura, disseny de xarxes i configuració de serveis DNS.
-* **[EverPia 3 - Projecte 4](https://github.com/PolVallesSMX2/P4-EverPia-3-Sobreviure-en-una-empresa-IT)** ➔ Gestió de riscos corporatius i prototipatge de solucions (Figma).
-* **[La Incubadora - Projecte 5](https://github.com/PolVallesSMX2/Projecte-05-La-incubadora)** ➔ Desenvolupament de propostes tècniques tècniques automatitzades en format Screencast.
-* **[Nexus - Projecte 6](https://github.com/classesSMX2n/projecte6-PolVallesSMX2)** ➔ Disseny i implementació de la memòria tècnica d'infraestructura de xarxes central.
-* **[FoodLogistic - Projecte 7](https://github.com/classesSMX2n/projecte-7-PolVallesSMX2)** ➔ Memòria tècnica de logística i serveis aplicats a entorns empresarials.
-* **[Connecta't al futur - Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)** ➔ Repositori final d'integració d'automatitzacions i digitalització real.
-* **[Presentació Final](https://github.com/PolVallesSMX2/SMX2PresentacioFinal)**
+### 🖥️ Sistemes, Xarxes & Infraestructura
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## 📂 Projectes Destacats (DAM)
+## 🚀 Projectes Destacats (DAM)
+
+> Treballant...
+
+---
+
+## 📂 Trajectòria i Projectes d'Infraestructura (SMX2)
+
+<details>
+<summary><b>🔍 Fes clic per desplegar els projectes d'administració de sistemes i xarxes</b></summary>
+<br>
+
+Repositoris i documentacions tècniques del desplegament d'infraestructura durant el cicle de Sistemes Microinformàtics i Xarxes:
+
+- **[EverPia - Projecte 2](https://github.com/PolVallesSMX2/Projecte2)** ➔ Consultoria IT inicial, elecció de hosting i anàlisi de requeriments del client.
+- **[EverPia 2 - Projecte 3](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2)** ➔ Resolució d'incidències crítiques, disseny de subnetting i serveis DNS/DHCP.
+- **[EverPia 3 - Projecte 4](https://github.com/PolVallesSMX2/P4-EverPia-3-Sobreviure-en-una-empresa-IT)** ➔ Gestió de riscos corporatius i prototipatge de solucions tècniques.
+- **[La Incubadora - Projecte 5](https://github.com/PolVallesSMX2/Projecte-05-La-incubadora)** ➔ Propostes tècniques d'automatització documentades en format Screencast.
+- **[Nexus - Projecte 6](https://github.com/classesSMX2n/projecte6-PolVallesSMX2)** ➔ Disseny i implementació de memòria tècnica per a xarxa centralitzada.
+- **[FoodLogistic - Projecte 7](https://github.com/classesSMX2n/projecte-7-PolVallesSMX2)** ➔ Serveis de xarxa i logística en entorns de producció empresarial.
+- **[Connecta't al futur - Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)** ➔ Integració final de digitalització i automatització de processos.
+- **[Presentació Final](https://github.com/PolVallesSMX2/SMX2PresentacioFinal)** ➔ Defensa global del projecte final de cicle mitjà.
+
+</details>
 
 ---
 
 ## 📜 Idiomes
-- **Català / Castellà:** Natius
-- **Anglès:** Nivell tècnic (Bàsic)
-- **Francès:** Aprenent actualment 🇫🇷
+- **Català / Castellà:** Natiu / Bilingüe
+- **Anglès:** Tècnic (Documentació de programació i entorns IT)
+- **Francès:** Inicial en aprenentatge 🇫🇷
 
 ---
 
-## 📫 Contacte i Enllaços
-- 📧 **Correu Institucional:** alu.pol.valles@mataro.epiaedu.cat
-- 📩 **Correu Personal:** polvallesss@gmail.com
+## 📫 Contacte
+- 💼 **Perfil Professional:** [LinkedIn](https://linkedin.com) *(afegeix el teu enllaç si en tens)*
+- 📩 **Correu Electrònic:** [polvallesss@gmail.com](mailto:polvallesss@gmail.com)
+- 🎓 **Correu Institucional:** [alu.pol.valles@mataro.epiaedu.cat](mailto:alu.pol.valles@mataro.epiaedu.cat)
