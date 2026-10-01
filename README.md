@@ -76,6 +76,6 @@ Repositoris i documentacions tècniques del desplegament d'infraestructura duran
 ---
 
 ## 📫 Contacte
-- 💼 **Perfil Professional:** [LinkedIn](https://linkedin.com) *(afegeix el teu enllaç si en tens)*
+- 💼 **Perfil Professional:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/pol-valles-174896386/?isSelfProfile=true)) 
 - 📩 **Correu Electrònic:** [polvallesss@gmail.com](mailto:polvallesss@gmail.com)
 - 🎓 **Correu Institucional:** [alu.pol.valles@mataro.epiaedu.cat](mailto:alu.pol.valles@mataro.epiaedu.cat)
