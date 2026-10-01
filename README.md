@@ -70,7 +70,7 @@ Repositoris i documentacions tècniques del desplegament d'infraestructura duran
 
 ## 📜 Idiomes
 - **Català / Castellà:** Natiu / Bilingüe
-- **Anglès:** Tècnic (Documentació de programació i entorns IT)
+- **Anglès:** Tècnic Avançat
 - **Francès:** Inicial en aprenentatge 🇫🇷
 
 ---
