@@ -4,7 +4,7 @@ Desenvolupador de Software i Tècnic de Sistemes enfocat al desenvolupament d'ap
 
 ---
 
-## 📋 El Meu Portafolis: [Aquí](https://polvallesdev.github.io/portfolio/)
+## 📋 El Meu Portafolis: [Aquí](https://polvallesdev.vercel.app/)
 
 ---
 
